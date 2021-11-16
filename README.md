@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/abhishekit04/version2/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/abhishekit04/abhishekit04.github.io/main/src/images/logo.png" width="100" />
 </div>
 
 <br/>
@@ -13,7 +13,7 @@
 <br/>
 
 <div align="center">
-  <img alt="Demo" src="https://raw.githubusercontent.com/abhishekit04/version2/main/src/images/demo.png" />
+  <img alt="Demo" src="https://raw.githubusercontent.com/abhishekit04/abhishekit04.github.io/main/src/images/demo.png" />
 </div>
 
 <br/>
