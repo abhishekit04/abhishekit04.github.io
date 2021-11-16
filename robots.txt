@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://abhishekit04.github.io/sitemap.xml
+Host: https://abhishekit04.github.io
