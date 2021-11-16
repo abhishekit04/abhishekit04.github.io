@@ -13,7 +13,7 @@
 <br/>
 
 <div align="center">
-  <img alt="Demo" src="https://raw.githubusercontent.com/abhishekit04/abhishekit04.github.io/code/src/images/demo.png" />
+  <img alt="Demo" src="https://raw.githubusercontent.com/abhishekit04/abhishekit04.github.io/code/static/og.png" />
 </div>
 
 <br/>
