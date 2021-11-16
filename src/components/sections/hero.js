@@ -51,9 +51,7 @@ const Hero = () => {
   const two = <h2 className="big-heading">Abhishek Kumar Singh</h2>;
   const three = <h3 className="big-heading">Computer science student</h3>;
   const four = (
-    <p>
-      Hello , My name is Abhishek kumar singh you can call me Praansho also .
-    </p>
+    <p>Hello, My name is Abhishek Kumar Singh a computer science student from Patna India.</p>
   );
   const five = (
     <a href={`mailto:${email}`} className="email-link">

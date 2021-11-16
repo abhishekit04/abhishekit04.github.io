@@ -132,7 +132,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['C', 'C++','Python', 'HTML & (S)CSS' ];
+  const skills = ['C', 'C++', 'Python', 'HTML & (S)CSS'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -143,12 +143,11 @@ const About = () => {
           <div>
             <p>Hello! I'm Abhishek, </p>
 
-            <p>
-              A computer science student from Patna, India.
-            </p>
+            <p>A computer science student.</p>
 
             <p>
-              Passionate reader.
+              Passionate reader, PC games and Cricket enthusiast. I love to Dance and exercise to
+              stay fit and healthy.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
