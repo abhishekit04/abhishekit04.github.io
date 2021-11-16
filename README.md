@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/flyingsonu122/version2/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/abhishekit04/version2/main/src/images/logo.png" width="100" />
 </div>
 
 <br/>
@@ -10,27 +10,19 @@
 
 <br/>
 
-<p align="center">
-  Previous iterations:
-  <a href="https://flyingsonu122.github.io/" target="_blank">V1</a>
-</p>
-
 <br/>
 
 <div align="center">
-  <img alt="Demo" src="https://raw.githubusercontent.com/flyingsonu122/version2/main/src/images/demo.png" />
+  <img alt="Demo" src="https://raw.githubusercontent.com/abhishekit04/version2/main/src/images/demo.png" />
 </div>
 
 <br/>
 
-
-
-## See live demo on [flyingsonu122.netlify.app](https://flyingsonu122.netlify.app/)
+## See live demo on [abhishekit04.netlify.app](https://abhishekit04.netlify.app/)
 
 OR
 
-##  [https://sonukushwaha.live](https://sonukushwaha.live/)
-
+## [https://abhishekit04.github.io/](https://abhishekit04.github.io/)
 
 <br/><br/>
 
