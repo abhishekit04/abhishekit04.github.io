@@ -2,10 +2,10 @@
   "name": "version2",
   "description": "Personal Website V2",
   "version": "1.0.0",
-  "author": "Sonu kumar kushwaha <flyingsonu736@gmail.com>",
+  "author": "Abhishek Kumar Singh",
   "repository": {
     "type": "git",
-    "url": "https://github.com/flyingsonu122/version2"
+    "url": "https://github.com/abhishekit04/abhishekit04.github.io"
   },
   "keywords": [
     "gatsby"
@@ -17,7 +17,8 @@
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "deploy": "gatsby build && gh-pages -d public -b main"
   },
   "husky": {
     "hooks": {
